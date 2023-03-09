@@ -13,6 +13,9 @@
 <a href="https://github.com/xSNOWM4Nx/react-flight-tracker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xSNOWM4Nx&repo=react-flight-tracker&theme=dark" />
 </a>
+<a href="https://github.com/xSNOWM4Nx/react-flight-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xSNOWM4Nx&repo=react-fractal-renderer&&theme=dark" />
+</a>
 <a href="https://github.com/xSNOWM4Nx/Tetris-Challenge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xSNOWM4Nx&repo=Tetris-Challenge&&theme=dark" />
 </a>
